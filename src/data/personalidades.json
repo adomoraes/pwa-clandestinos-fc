@@ -1,0 +1,394 @@
+[
+	{
+		"id": "francisco-carregal",
+		"name": "Francisco Carregal",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://terceirotempo.uol.com.br/imagens/34/41/w500_h140_qfl_fto_13441.webp"
+		},
+		"bio": "Francisco Carregal foi um dos primeiros jogadores de futebol negros registrados no Brasil, atuando em um período de grande segregação. Sua presença nos campos desafiou barreiras e abriu caminho para futuras gerações de atletas negros.",
+		"metadata": [
+			{ "name": "Área", "value": "Esporte" },
+			{ "name": "Nascimento", "value": "1851" },
+			{
+				"name": "Destaque",
+				"value": "Primeiro jogador de futebol negro registrado no Brasil"
+			},
+			{
+				"name": "Fonte:",
+				"value": "https://terceirotempo.uol.com.br"
+			}
+		]
+	},
+	{
+		"id": "reinaldo",
+		"name": "Reinaldo",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://terceirotempo.uol.com.br/imagens/35/46/w500_h140_qfl_fto_13546.webp"
+		},
+		"bio": "Reinaldo é um dos maiores ídolos do Atlético Mineiro e um símbolo de luta contra o racismo no futebol brasileiro. Sua carreira foi marcada por gols memoráveis e um posicionamento firme contra a discriminação.",
+		"metadata": [
+			{ "name": "Área", "value": "Esporte" },
+			{ "name": "Nascimento", "value": "1957" },
+			{
+				"name": "Destaque",
+				"value": "Ídolo do Atlético-MG e ativista antirracista"
+			},
+			{
+				"name": "Fonte:",
+				"value": "https://terceirotempo.uol.com.br"
+			}
+		]
+	},
+	{
+		"id": "ailton-krenak",
+		"name": "Ailton Krenak",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ailton_Krenak_%285269420566%29_%28cropped%29.jpg/250px-Ailton_Krenak_%285269420566%29_%28cropped%29.jpg"
+		},
+		"bio": "Líder indígena, ambientalista, filósofo e escritor brasileiro. Ailton Krenak é uma das vozes mais importantes na defesa dos direitos dos povos indígenas e da natureza no Brasil e no mundo.",
+		"metadata": [
+			{ "name": "Área", "value": "Ativismo, Filosofia" },
+			{ "name": "Nascimento", "value": "1953" },
+			{ "name": "Destaque", "value": "Líder indígena e ambientalista" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Ailton_Krenak"
+			}
+		]
+	},
+	{
+		"id": "marielle-franco",
+		"name": "Marielle Franco",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Marielle_Franco.jpg/250px-Marielle_Franco.jpg"
+		},
+		"bio": "Socióloga, feminista, defensora dos direitos humanos e vereadora do Rio de Janeiro. Marielle Franco foi uma voz incansável na defesa das minorias e na luta contra a desigualdade social, brutalmente assassinada em 2018.",
+		"metadata": [
+			{ "name": "Área", "value": "Política, Ativismo" },
+			{ "name": "Nascimento", "value": "1979" },
+			{
+				"name": "Destaque",
+				"value": "Defensora dos direitos humanos e vereadora"
+			},
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Marielle_Franco"
+			}
+		]
+	},
+	{
+		"id": "sonia-guajajara",
+		"name": "Sonia Guajajara",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/11.01.2023_-_Cerim%C3%B4nias_de_assun%C3%A7%C3%A3o_nos_cargos_das_ministras_da_Igualdade_Racial%2C_Anielle_Franco%2C_e_dos_Povos_Ind%C3%ADgenas%2C_S%C3%B4nia_Guajajara_%2852650320567%29_%28cropped%29.jpg/250px-thumbnail.jpg"
+		},
+		"bio": "Líder indígena, ativista ambiental e política brasileira. Sonia Guajajara é uma das principais representantes dos povos indígenas no cenário nacional e internacional, lutando pela demarcação de terras e pela proteção da Amazônia.",
+		"metadata": [
+			{ "name": "Área", "value": "Ativismo, Política" },
+			{ "name": "Nascimento", "value": "1974" },
+			{ "name": "Destaque", "value": "Líder indígena e ambientalista" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/S%C3%B4nia_Guajajara"
+			}
+		]
+	},
+	{
+		"id": "milton-santos",
+		"name": "Milton Santos",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Milton_Santos_%28TV_Brasil%29.jpg/250px-Milton_Santos_%28TV_Brasil%29.jpg"
+		},
+		"bio": "Geógrafo, escritor, cientista e intelectual brasileiro. Milton Santos é considerado um dos maiores pensadores da geografia crítica no mundo, com vasta obra sobre urbanização, globalização e desigualdade social.",
+		"metadata": [
+			{ "name": "Área", "value": "Geografia, Filosofia" },
+			{ "name": "Nascimento", "value": "1926" },
+			{ "name": "Destaque", "value": "Geógrafo e intelectual" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Milton_Santos"
+			}
+		]
+	},
+	{
+		"id": "mano-brown",
+		"name": "Mano Brown",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mano_Brown%2C_June_2025.jpg/250px-Mano_Brown%2C_June_2025.jpg"
+		},
+		"bio": "Rapper, compositor e um dos fundadores do grupo Racionais MC's. Mano Brown é uma das vozes mais influentes do rap nacional, abordando em suas letras temas como racismo, desigualdade e violência.",
+		"metadata": [
+			{ "name": "Área", "value": "Música" },
+			{ "name": "Nascimento", "value": "1970" },
+			{ "name": "Destaque", "value": "Rapper e líder dos Racionais MC's" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Mano_Brown"
+			}
+		]
+	},
+	{
+		"id": "tereza-de-benguela",
+		"name": "Tereza de Benguela",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/F%C3%A9lix_Vallotton%2C_1911_-_Femme_noire_assise_de_face.jpg/250px-F%C3%A9lix_Vallotton%2C_1911_-_Femme_noire_assise_de_face.jpg"
+		},
+		"bio": "Líder quilombola que viveu no século XVIII. Tereza de Benguela comandou o Quilombo de Quariterê, em Mato Grosso, resistindo à escravidão por décadas e se tornando um símbolo de força e liderança feminina negra.",
+		"metadata": [
+			{ "name": "Área", "value": "Liderança Quilombola" },
+			{ "name": "Nascimento", "value": "Século XVIII" },
+			{ "name": "Destaque", "value": "Líder do Quilombo de Quariterê" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Tereza_de_Benguela"
+			}
+		]
+	},
+	{
+		"id": "elza-soares",
+		"name": "Elza Soares",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Elza_Soares_recebendo_o_diploma_de_Embaixatriz_do_Samba_no_Museu_da_Imagem_e_do_Sim%2C_com_Garrincha_ao_fundo_%28cropped%29.tif/lossy-page1-260px-Elza_Soares_recebendo_o_diploma_de_Embaixatriz_do_Samba_no_Museu_da_Imagem_e_do_Sim%2C_com_Garrincha_ao_fundo_%28cropped%29.tif.jpg"
+		},
+		"bio": "Cantora e compositora brasileira, considerada uma das maiores vozes da música mundial. Elza Soares teve uma carreira longeva e icônica, marcada por sua voz potente e sua postura de resistência e superação.",
+		"metadata": [
+			{ "name": "Área", "value": "Música" },
+			{ "name": "Nascimento", "value": "1930" },
+			{ "name": "Destaque", "value": "Cantora icônica e voz da resistência" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Elza_Soares"
+			}
+		]
+	},
+	{
+		"id": "luiz-gama",
+		"name": "Luiz Gama",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Luiz_Gama.jpg/250px-Luiz_Gama.jpg"
+		},
+		"bio": "Advogado, jornalista, escritor e abolicionista brasileiro. Luiz Gama foi um dos mais importantes líderes do movimento abolicionista, tendo libertado mais de 500 escravizados por meio de ações judiciais.",
+		"metadata": [
+			{ "name": "Área", "value": "Abolicionismo, Direito" },
+			{ "name": "Nascimento", "value": "1830" },
+			{ "name": "Destaque", "value": "Advogado abolicionista" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Luiz_Gama"
+			}
+		]
+	},
+	{
+		"id": "carolina-maria-de-jesus",
+		"name": "Carolina Maria de Jesus",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Carolina_Maria_de_Jesus_assinando_seu_livro_Quarto_de_Despejo_em_1960.jpg/250px-Carolina_Maria_de_Jesus_assinando_seu_livro_Quarto_de_Despejo_em_1960.jpg"
+		},
+		"bio": "Escritora brasileira, autora do best-seller 'Quarto de Despejo'. Carolina Maria de Jesus retratou em suas obras a dura realidade da vida nas favelas, dando voz aos marginalizados e se tornando um ícone da literatura periférica.",
+		"metadata": [
+			{ "name": "Área", "value": "Literatura" },
+			{ "name": "Nascimento", "value": "1914" },
+			{ "name": "Destaque", "value": "Escritora e cronista da vida na favela" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Carolina_Maria_de_Jesus"
+			}
+		]
+	},
+	{
+		"id": "edi-rock",
+		"name": "Edi Rock",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Racionais_MC%27s_%2812197937363%29.jpg/330px-Racionais_MC%27s_%2812197937363%29.jpg"
+		},
+		"bio": "Rapper e compositor, membro fundador do grupo Racionais MC's. Edi Rock é conhecido por suas letras que denunciam a desigualdade social e o racismo, contribuindo para a conscientização e o empoderamento da juventude periférica.",
+		"metadata": [
+			{ "name": "Área", "value": "Música" },
+			{ "name": "Nascimento", "value": "1970" },
+			{ "name": "Destaque", "value": "Rapper e membro dos Racionais MC's" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Edi_Rock"
+			}
+		]
+	},
+	{
+		"id": "formiga",
+		"name": "Formiga",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Formiga_prepara%C3%A7%C3%A3o_Rio_2016.png/250px-Formiga_prepara%C3%A7%C3%A3o_Rio_2016.png"
+		},
+		"bio": "Futebolista brasileira, uma das maiores jogadoras de todos os tempos. Formiga é um ícone do futebol feminino, com sete participações em Copas do Mundo e sete em Jogos Olímpicos, sendo um exemplo de longevidade e talento.",
+		"metadata": [
+			{ "name": "Área", "value": "Esporte" },
+			{ "name": "Nascimento", "value": "1978" },
+			{ "name": "Destaque", "value": "Futebolista icônica" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Formiga"
+			}
+		]
+	},
+	{
+		"id": "sueli-carneiro",
+		"name": "Sueli Carneiro",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sueli-carneiro-foto-andre-seiti-e1521580460291.jpg/250px-Sueli-carneiro-foto-andre-seiti-e1521580460291.jpg"
+		},
+		"bio": "Filósofa, escritora e ativista do movimento social negro brasileiro. Sueli Carneiro é uma das mais importantes pensadoras do feminismo negro no Brasil, com vasta obra sobre racismo, gênero e interseccionalidade.",
+		"metadata": [
+			{ "name": "Área", "value": "Filosofia, Ativismo" },
+			{ "name": "Nascimento", "value": "1950" },
+			{ "name": "Destaque", "value": "Filósofa e ativista do feminismo negro" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Sueli_Carneiro"
+			}
+		]
+	},
+	{
+		"id": "ice-blue",
+		"name": "Ice Blue",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Racionais_MC%27s_%2812198039523%29.jpg/250px-Racionais_MC%27s_%2812198039523%29.jpg"
+		},
+		"bio": "Rapper e compositor, membro fundador do grupo Racionais MC's. Ice Blue é uma das vozes que compõem a narrativa do rap nacional, abordando em suas letras a realidade das periferias e a luta contra o racismo.",
+		"metadata": [
+			{ "name": "Área", "value": "Música" },
+			{ "name": "Nascimento", "value": "1969" },
+			{ "name": "Destaque", "value": "Rapper e membro dos Racionais MC's" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Ice_Blue"
+			}
+		]
+	},
+	{
+		"id": "dandara",
+		"name": "Dandara",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://scontent.fcgh11-1.fna.fbcdn.net/v/t51.75761-15/467416485_18032075720521254_5426673655030014865_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=105&ccb=1-7&_nc_sid=127cfc&_nc_ohc=DjRvCscgvnUQ7kNvwF43TEu&_nc_oc=Adlfveu-8p8MH3JqiLXXKTXf72sUgqY98f03meOGtTUnRERpNCq7o7WCDJKUzX7YSnL1SNluYMh8DvnmhRBpwaOC&_nc_zt=23&_nc_ht=scontent.fcgh11-1.fna&_nc_gid=Zn7Be1vDvM1oACgxqT0frw&oh=00_AfYQkbyduwMCld5zN2eHwX7c28fZZxqjsJJLPQNzQ15a9A&oe=68C725FC"
+		},
+		"bio": "Guerreira negra do período colonial do Brasil, companheira de Zumbi dos Palmares. Dandara lutou pela liberdade e resistência contra a escravidão, sendo um símbolo de coragem e força na história do Brasil.",
+		"metadata": [
+			{ "name": "Área", "value": "Liderança Quilombola" },
+			{ "name": "Nascimento", "value": "Século XVII" },
+			{ "name": "Destaque", "value": "Guerreira quilombola" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Dandara_dos_Palmares"
+			}
+		]
+	},
+	{
+		"id": "rappin-hood",
+		"name": "Rappin Hood",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Rappin%27_Hood%2C_May_2025.jpg/250px-Rappin%27_Hood%2C_May_2025.jpg"
+		},
+		"bio": "Rapper, produtor musical e ativista social brasileiro. Rappin Hood é conhecido por suas letras que misturam rap com samba e por seu engajamento em projetos sociais que promovem a cultura e a educação nas periferias.",
+		"metadata": [
+			{ "name": "Área", "value": "Música, Ativismo" },
+			{ "name": "Nascimento", "value": "1972" },
+			{ "name": "Destaque", "value": "Rapper e ativista social" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Rappin%27_Hood"
+			}
+		]
+	},
+	{
+		"id": "carlos-marighella",
+		"name": "Carlos Marighella",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Marighella_foto3_deputado_46-47_apeerj_%28cropped%29.jpg/250px-Marighella_foto3_deputado_46-47_apeerj_%28cropped%29.jpg"
+		},
+		"bio": "Político, guerrilheiro e escritor brasileiro. Carlos Marighella foi um dos principais líderes da luta armada contra a ditadura militar no Brasil, tornando-se um símbolo de resistência e combate à opressão.",
+		"metadata": [
+			{ "name": "Área", "value": "Política, Guerrilha" },
+			{ "name": "Nascimento", "value": "1911" },
+			{ "name": "Destaque", "value": "Líder da luta armada contra a ditadura" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Carlos_Marighella"
+			}
+		]
+	},
+	{
+		"id": "ganga-zumba",
+		"name": "Ganga Zumba",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://s2.static.brasilescola.uol.com.br/be/2025/08/representacao-de-ganga-zumba.jpeg"
+		},
+		"bio": "Primeiro líder do Quilombo dos Palmares, o maior e mais duradouro quilombo do Brasil. Ganga Zumba foi uma figura central na resistência contra a escravidão, liderando milhares de negros em busca de liberdade.",
+		"metadata": [
+			{ "name": "Área", "value": "Liderança Quilombola" },
+			{ "name": "Nascimento", "value": "Século XVII" },
+			{
+				"name": "Destaque",
+				"value": "Primeiro líder do Quilombo dos Palmares"
+			},
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/Ganga_Zumba"
+			}
+		]
+	},
+	{
+		"id": "kl-jay",
+		"name": "KL Jay",
+		"image": {
+			"author": "placeholder",
+			"color": "#000000",
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Racionais_MC%27s_%2812197960953%29_%28cropped%29.jpg/250px-Racionais_MC%27s_%2812197960953%29_%28cropped%29.jpg"
+		},
+		"bio": "DJ e produtor musical, membro fundador do grupo Racionais MC's. KL Jay é uma referência no cenário do hip-hop brasileiro, contribuindo para a difusão da cultura e da mensagem de conscientização social.",
+		"metadata": [
+			{ "name": "Área", "value": "Música" },
+			{ "name": "Nascimento", "value": "1969" },
+			{ "name": "Destaque", "value": "DJ e membro dos Racionais MC's" },
+			{
+				"name": "Fonte:",
+				"value": "https://pt.wikipedia.org/wiki/KL_Jay"
+			}
+		]
+	}
+]
