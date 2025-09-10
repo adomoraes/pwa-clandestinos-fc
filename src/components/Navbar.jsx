@@ -1,28 +1,44 @@
+import { useInstallPWA } from '../context/InstallPWAContext';
+
 function Navbar() {
-	return (
-		<nav className='sticky top-0 z-50 bg-black shadow-md'>
-			<div className='container mx-auto px-6 py-4'>
-				<div className='flex items-center justify-between'>
-					<div className='text-2xl font-bold text-white'>
-						<a href='#'>Camiseta Preta</a>
-					</div>
-					<div className='hidden space-x-4 md:flex'>
-						<a href='#detalhes' className='text-gray-300 hover:text-white'>
-							Detalhes
-						</a>
-						<a
-							href='#personalidades'
-							className='text-gray-300 hover:text-white'>
-							Personalidades
-						</a>
-						<a href='#faq' className='text-gray-300 hover:text-white'>
-							FAQ
-						</a>
-					</div>
-				</div>
-			</div>
-		</nav>
-	)
+  const { installPrompt, handleInstall, isMobile } = useInstallPWA();
+
+  return (
+    <nav className='sticky top-0 z-50 bg-black shadow-md'>
+      <div className='container mx-auto px-6 py-4'>
+        <div className='flex items-center justify-between'>
+          <div className='text-2xl font-bold text-white'>
+            <a href='#'>Camiseta Preta</a>
+          </div>
+          <div className='hidden space-x-4 md:flex'>
+            <a href='#detalhes' className='text-gray-300 hover:text-white'>
+              Detalhes
+            </a>
+            <a
+              href='#personalidades'
+              className='text-gray-300 hover:text-white'
+            >
+              Personalidades
+            </a>
+            <a href='#faq' className='text-gray-300 hover:text-white'>
+              FAQ
+            </a>
+          </div>
+          {/* Mobile Install Button */}
+          <div className="md:hidden">
+            {isMobile && installPrompt && (
+              <button
+                onClick={handleInstall}
+                className='rounded-lg bg-clandestinos-green px-4 py-2 font-bold text-black'
+              >
+                Instalar App
+              </button>
+            )}
+          </div>
+        </div>
+      </div>
+    </nav>
+  );
 }
 
-export default Navbar
+export default Navbar;
