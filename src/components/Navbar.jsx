@@ -1,7 +1,7 @@
 import { useInstallPWA } from '../context/InstallPWAContext';
 
 function Navbar() {
-  const { installPrompt, handleInstall, isMobile } = useInstallPWA();
+  const { installPrompt, handleInstall, isMobile, isStandalone } = useInstallPWA();
 
   return (
     <nav className='sticky top-0 z-50 bg-black shadow-md'>
@@ -26,7 +26,7 @@ function Navbar() {
           </div>
           {/* Mobile Install Button */}
           <div className="md:hidden">
-            {isMobile && installPrompt && (
+            {isMobile && installPrompt && !isStandalone && (
               <button
                 onClick={handleInstall}
                 className='rounded-lg bg-clandestinos-green px-4 py-2 font-bold text-black'

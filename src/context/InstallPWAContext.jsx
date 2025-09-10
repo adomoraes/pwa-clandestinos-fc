@@ -9,6 +9,7 @@ export function useInstallPWA() {
 export function InstallPWAProvider({ children }) {
   const [installPrompt, setInstallPrompt] = useState(null);
   const [isMobile, setIsMobile] = useState(false);
+  const [isStandalone, setIsStandalone] = useState(false);
 
   useEffect(() => {
     const handler = (e) => {
@@ -20,6 +21,11 @@ export function InstallPWAProvider({ children }) {
     const userAgent = typeof window.navigator === "undefined" ? "" : navigator.userAgent;
     const mobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent);
     setIsMobile(mobile);
+
+    // Check if the app is running in standalone mode
+    if (window.matchMedia('(display-mode: standalone)').matches) {
+      setIsStandalone(true);
+    }
 
     return () => {
       window.removeEventListener('beforeinstallprompt', handler);
@@ -40,6 +46,7 @@ export function InstallPWAProvider({ children }) {
     installPrompt,
     handleInstall,
     isMobile,
+    isStandalone,
   };
 
   return (
